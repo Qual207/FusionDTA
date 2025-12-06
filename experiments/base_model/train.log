@@ -1,0 +1,1166 @@
+2025-11-04 14:53:48,146:INFO: Loading datasets...
+2025-11-04 14:53:48,473:INFO: - Done loading data.
+2025-11-04 14:53:55,565:INFO: Starting training for 10 epochs
+2025-11-04 14:53:55,565:INFO: Epoch 1/10
+2025-11-04 14:58:10,266:INFO: Loading datasets...
+2025-11-04 14:58:10,608:INFO: - Done loading data.
+2025-11-04 14:58:11,757:INFO: Starting training for 10 epochs
+2025-11-04 14:58:11,757:INFO: Epoch 1/10
+2025-11-08 18:15:21,487:INFO: Loading datasets...
+2025-11-08 18:15:21,795:INFO: - Done loading data.
+2025-11-08 18:15:26,228:INFO: Starting training for 10 epochs
+2025-11-08 18:15:26,228:INFO: Epoch 1/10
+2025-11-08 18:18:40,454:INFO: - Validation loss: 12609336.7447
+2025-11-08 18:18:40,510:INFO: - Found new best model (val_loss=12609336.7447)
+2025-11-08 18:24:41,082:INFO: Loading datasets...
+2025-11-08 18:24:41,358:INFO: - Done loading data.
+2025-11-08 18:24:42,493:INFO: Starting training for 10 epochs
+2025-11-08 18:24:42,493:INFO: Epoch 1/10
+2025-11-08 18:27:19,216:INFO: - Validation loss: 11918621.5532
+2025-11-08 18:34:56,551:INFO: Loading datasets...
+2025-11-08 18:34:56,836:INFO: - Done loading data.
+2025-11-08 18:34:57,626:INFO: Starting training for 10 epochs
+2025-11-08 18:34:57,627:INFO: Epoch 1/10
+2025-11-08 18:39:34,976:INFO: - Validation loss: 12679974.0000
+2025-11-08 18:39:35,008:INFO: - Found new best model (val_loss=12679974.0000)
+2025-11-08 18:39:35,010:INFO: Epoch 2/10
+2025-11-08 18:42:15,137:INFO: - Validation loss: 11598854.6170
+2025-11-08 18:42:15,162:INFO: - Found new best model (val_loss=11598854.6170)
+2025-11-08 18:42:15,164:INFO: Epoch 3/10
+2025-11-08 18:45:08,334:INFO: - Validation loss: 12192491.6383
+2025-11-08 18:45:08,367:INFO: Epoch 4/10
+2025-11-08 18:48:26,426:INFO: - Validation loss: 11128532.3191
+2025-11-08 18:48:26,466:INFO: - Found new best model (val_loss=11128532.3191)
+2025-11-08 18:48:26,469:INFO: Epoch 5/10
+2025-11-08 18:52:33,731:INFO: - Validation loss: 10060672.7553
+2025-11-08 18:52:33,760:INFO: - Found new best model (val_loss=10060672.7553)
+2025-11-08 18:52:33,762:INFO: Epoch 6/10
+2025-11-08 18:56:44,067:INFO: - Validation loss: 10678477.0745
+2025-11-08 18:56:44,097:INFO: Epoch 7/10
+2025-11-08 19:00:54,173:INFO: - Validation loss: 9658945.0638
+2025-11-08 19:00:54,200:INFO: - Found new best model (val_loss=9658945.0638)
+2025-11-08 19:00:54,202:INFO: Epoch 8/10
+2025-11-08 19:05:02,065:INFO: - Validation loss: 9131350.5426
+2025-11-08 19:05:02,093:INFO: - Found new best model (val_loss=9131350.5426)
+2025-11-08 19:05:02,095:INFO: Epoch 9/10
+2025-11-08 19:09:10,955:INFO: - Validation loss: 10270459.2128
+2025-11-08 19:09:11,002:INFO: Epoch 10/10
+2025-11-08 19:13:19,875:INFO: - Validation loss: 8980878.0213
+2025-11-08 19:13:19,905:INFO: - Found new best model (val_loss=8980878.0213)
+2025-11-08 19:13:19,908:INFO: Training complete!
+2025-12-02 14:26:03,672:INFO: Loading datasets...
+2025-12-02 14:26:04,167:INFO: - Done loading data.
+2025-12-02 14:26:10,194:INFO: Starting training for 75 epochs
+2025-12-02 14:26:10,194:INFO: Epoch 1/75
+2025-12-02 15:13:29,851:INFO: Loading datasets...
+2025-12-02 15:13:30,253:INFO: - Done loading data.
+2025-12-02 15:13:31,498:INFO: Starting training for 75 epochs
+2025-12-02 15:13:31,498:INFO: Epoch 1/75
+2025-12-02 15:15:06,002:INFO: Loading datasets...
+2025-12-02 15:15:06,361:INFO: - Done loading data.
+2025-12-02 15:15:07,647:INFO: Starting training for 75 epochs
+2025-12-02 15:15:07,647:INFO: Epoch 1/75
+2025-12-02 15:53:23,804:INFO: Loading datasets...
+2025-12-02 15:53:24,105:INFO: - Done loading data.
+2025-12-02 15:53:25,318:INFO: Starting training for 75 epochs
+2025-12-02 15:53:25,318:INFO: Epoch 1/75
+2025-12-02 15:59:28,420:INFO: Loading datasets...
+2025-12-02 17:41:58,242:INFO: Loading datasets...
+2025-12-02 23:57:55,782:INFO: Loading datasets...
+2025-12-02 23:58:14,171:INFO: - Done loading data.
+2025-12-03 00:01:16,653:INFO: Loading datasets...
+2025-12-03 00:01:34,338:INFO: - Done loading data.
+2025-12-03 00:03:05,222:INFO: Loading datasets...
+2025-12-03 00:03:22,300:INFO: - Done loading data.
+2025-12-03 00:03:23,964:INFO: Starting training for 75 epochs
+2025-12-03 00:03:23,964:INFO: Epoch 1/75
+2025-12-03 23:46:07,949:INFO: Loading datasets...
+2025-12-03 23:46:43,487:INFO: - Done loading data.
+2025-12-03 23:46:45,029:INFO: Starting training for 75 epochs
+2025-12-03 23:46:45,029:INFO: Epoch 1/75
+2025-12-03 23:55:19,805:INFO: Loading datasets...
+2025-12-03 23:55:55,891:INFO: - Done loading data.
+2025-12-03 23:55:56,977:INFO: Starting training for 75 epochs
+2025-12-03 23:55:56,977:INFO: Epoch 1/75
+2025-12-03 23:56:14,829:INFO: - Validation loss: 0.5377
+2025-12-03 23:56:14,829:INFO: - Found new best model (val_loss=0.5377)
+2025-12-03 23:56:14,843:INFO: Epoch 2/75
+2025-12-03 23:56:32,239:INFO: - Validation loss: 0.5203
+2025-12-03 23:56:32,239:INFO: - Found new best model (val_loss=0.5203)
+2025-12-03 23:56:32,254:INFO: Epoch 3/75
+2025-12-03 23:56:49,644:INFO: - Validation loss: 0.5824
+2025-12-03 23:56:49,644:INFO: Epoch 4/75
+2025-12-03 23:57:07,058:INFO: - Validation loss: 0.5284
+2025-12-03 23:57:07,058:INFO: Epoch 5/75
+2025-12-03 23:57:24,507:INFO: - Validation loss: 0.5397
+2025-12-03 23:57:24,507:INFO: Epoch 6/75
+2025-12-03 23:57:41,957:INFO: - Validation loss: 0.5078
+2025-12-03 23:57:41,957:INFO: - Found new best model (val_loss=0.5078)
+2025-12-03 23:57:41,972:INFO: Epoch 7/75
+2025-12-03 23:57:59,448:INFO: - Validation loss: 0.5253
+2025-12-03 23:57:59,448:INFO: Epoch 8/75
+2025-12-03 23:58:16,895:INFO: - Validation loss: 0.4688
+2025-12-03 23:58:16,895:INFO: - Found new best model (val_loss=0.4688)
+2025-12-03 23:58:16,910:INFO: Epoch 9/75
+2025-12-03 23:58:34,356:INFO: - Validation loss: 0.5908
+2025-12-03 23:58:34,356:INFO: Epoch 10/75
+2025-12-03 23:58:51,796:INFO: - Validation loss: 0.4842
+2025-12-03 23:58:51,796:INFO: Epoch 11/75
+2025-12-03 23:59:09,264:INFO: - Validation loss: 0.5048
+2025-12-03 23:59:09,265:INFO: Epoch 12/75
+2025-12-03 23:59:26,728:INFO: - Validation loss: 0.5141
+2025-12-03 23:59:26,728:INFO: Epoch 13/75
+2025-12-03 23:59:44,166:INFO: - Validation loss: 0.4218
+2025-12-03 23:59:44,167:INFO: - Found new best model (val_loss=0.4218)
+2025-12-03 23:59:44,181:INFO: Epoch 14/75
+2025-12-04 00:00:01,640:INFO: - Validation loss: 0.5600
+2025-12-04 00:00:01,640:INFO: Epoch 15/75
+2025-12-04 00:00:19,304:INFO: - Validation loss: 0.4031
+2025-12-04 00:00:19,304:INFO: - Found new best model (val_loss=0.4031)
+2025-12-04 00:00:19,319:INFO: Epoch 16/75
+2025-12-04 00:00:36,800:INFO: - Validation loss: 0.4004
+2025-12-04 00:00:36,800:INFO: - Found new best model (val_loss=0.4004)
+2025-12-04 00:00:36,814:INFO: Epoch 17/75
+2025-12-04 00:00:54,281:INFO: - Validation loss: 0.5292
+2025-12-04 00:00:54,281:INFO: Epoch 18/75
+2025-12-04 00:01:11,740:INFO: - Validation loss: 0.4047
+2025-12-04 00:01:11,740:INFO: Epoch 19/75
+2025-12-04 00:01:29,222:INFO: - Validation loss: 0.4706
+2025-12-04 00:01:29,222:INFO: Epoch 20/75
+2025-12-04 00:01:46,684:INFO: - Validation loss: 0.3668
+2025-12-04 00:01:46,684:INFO: - Found new best model (val_loss=0.3668)
+2025-12-04 00:01:46,698:INFO: Epoch 21/75
+2025-12-04 00:02:04,157:INFO: - Validation loss: 0.3499
+2025-12-04 00:02:04,157:INFO: - Found new best model (val_loss=0.3499)
+2025-12-04 00:02:04,172:INFO: Epoch 22/75
+2025-12-04 00:02:21,643:INFO: - Validation loss: 0.4091
+2025-12-04 00:02:21,643:INFO: Epoch 23/75
+2025-12-04 00:02:39,080:INFO: - Validation loss: 0.3427
+2025-12-04 00:02:39,080:INFO: - Found new best model (val_loss=0.3427)
+2025-12-04 00:02:39,096:INFO: Epoch 24/75
+2025-12-04 00:02:56,562:INFO: - Validation loss: 0.3213
+2025-12-04 00:02:56,563:INFO: - Found new best model (val_loss=0.3213)
+2025-12-04 00:02:56,577:INFO: Epoch 25/75
+2025-12-04 00:03:14,017:INFO: - Validation loss: 0.3318
+2025-12-04 00:03:14,018:INFO: Epoch 26/75
+2025-12-04 00:03:31,453:INFO: - Validation loss: 0.3290
+2025-12-04 00:03:31,454:INFO: Epoch 27/75
+2025-12-04 00:03:48,885:INFO: - Validation loss: 0.3322
+2025-12-04 00:03:48,885:INFO: Epoch 28/75
+2025-12-04 00:04:06,363:INFO: - Validation loss: 0.3119
+2025-12-04 00:04:06,363:INFO: - Found new best model (val_loss=0.3119)
+2025-12-04 00:04:06,378:INFO: Epoch 29/75
+2025-12-04 00:04:23,840:INFO: - Validation loss: 0.3527
+2025-12-04 00:04:23,840:INFO: Epoch 30/75
+2025-12-04 00:04:41,292:INFO: - Validation loss: 0.3365
+2025-12-04 00:04:41,292:INFO: Epoch 31/75
+2025-12-04 00:04:58,737:INFO: - Validation loss: 0.3208
+2025-12-04 00:04:58,737:INFO: Epoch 32/75
+2025-12-04 00:05:16,201:INFO: - Validation loss: 0.3147
+2025-12-04 00:05:16,202:INFO: Epoch 33/75
+2025-12-04 00:05:33,666:INFO: - Validation loss: 0.3099
+2025-12-04 00:05:33,666:INFO: - Found new best model (val_loss=0.3099)
+2025-12-04 00:05:33,681:INFO: Epoch 34/75
+2025-12-04 00:05:51,133:INFO: - Validation loss: 0.3104
+2025-12-04 00:05:51,134:INFO: Epoch 35/75
+2025-12-04 00:06:08,580:INFO: - Validation loss: 0.3334
+2025-12-04 00:06:08,581:INFO: Epoch 36/75
+2025-12-04 00:06:26,043:INFO: - Validation loss: 0.3155
+2025-12-04 00:06:26,043:INFO: Epoch 37/75
+2025-12-04 00:06:43,508:INFO: - Validation loss: 0.3157
+2025-12-04 00:06:43,508:INFO: Epoch 38/75
+2025-12-04 00:07:00,942:INFO: - Validation loss: 0.2993
+2025-12-04 00:07:00,942:INFO: - Found new best model (val_loss=0.2993)
+2025-12-04 00:07:00,956:INFO: Epoch 39/75
+2025-12-04 00:07:18,403:INFO: - Validation loss: 0.2904
+2025-12-04 00:07:18,403:INFO: - Found new best model (val_loss=0.2904)
+2025-12-04 00:07:18,416:INFO: Epoch 40/75
+2025-12-04 00:07:35,886:INFO: - Validation loss: 0.2993
+2025-12-04 00:07:35,886:INFO: Epoch 41/75
+2025-12-04 00:07:53,348:INFO: - Validation loss: 0.2828
+2025-12-04 00:07:53,348:INFO: - Found new best model (val_loss=0.2828)
+2025-12-04 00:07:53,363:INFO: Epoch 42/75
+2025-12-04 00:08:10,819:INFO: - Validation loss: 0.2968
+2025-12-04 00:08:10,819:INFO: Epoch 43/75
+2025-12-04 00:08:28,259:INFO: - Validation loss: 0.3106
+2025-12-04 00:08:28,260:INFO: Epoch 44/75
+2025-12-04 00:08:45,698:INFO: - Validation loss: 0.2993
+2025-12-04 00:08:45,698:INFO: Epoch 45/75
+2025-12-04 00:09:03,147:INFO: - Validation loss: 0.2897
+2025-12-04 00:09:03,148:INFO: Epoch 46/75
+2025-12-04 00:09:20,605:INFO: - Validation loss: 0.3155
+2025-12-04 00:09:20,605:INFO: Epoch 47/75
+2025-12-04 00:09:38,017:INFO: - Validation loss: 0.2996
+2025-12-04 00:09:38,018:INFO: Epoch 48/75
+2025-12-04 00:09:55,458:INFO: - Validation loss: 0.3193
+2025-12-04 00:09:55,458:INFO: Epoch 49/75
+2025-12-04 00:10:12,919:INFO: - Validation loss: 0.2850
+2025-12-04 00:10:12,920:INFO: Epoch 50/75
+2025-12-04 00:10:30,369:INFO: - Validation loss: 0.2972
+2025-12-04 00:10:30,369:INFO: Epoch 51/75
+2025-12-04 00:10:47,822:INFO: - Validation loss: 0.2964
+2025-12-04 00:10:47,822:INFO: Epoch 52/75
+2025-12-04 00:11:05,027:INFO: - Validation loss: 0.2970
+2025-12-04 00:11:05,028:INFO: Epoch 53/75
+2025-12-04 00:11:22,222:INFO: - Validation loss: 0.2962
+2025-12-04 00:11:22,223:INFO: Epoch 54/75
+2025-12-04 00:11:39,432:INFO: - Validation loss: 0.2836
+2025-12-04 00:11:39,433:INFO: Epoch 55/75
+2025-12-04 00:11:56,627:INFO: - Validation loss: 0.2744
+2025-12-04 00:11:56,627:INFO: - Found new best model (val_loss=0.2744)
+2025-12-04 00:11:56,642:INFO: Epoch 56/75
+2025-12-04 00:12:13,828:INFO: - Validation loss: 0.2955
+2025-12-04 00:12:13,828:INFO: Epoch 57/75
+2025-12-04 00:12:31,009:INFO: - Validation loss: 0.2792
+2025-12-04 00:12:31,009:INFO: Epoch 58/75
+2025-12-04 00:12:48,195:INFO: - Validation loss: 0.2815
+2025-12-04 00:12:48,195:INFO: Epoch 59/75
+2025-12-04 00:13:05,349:INFO: - Validation loss: 0.2792
+2025-12-04 00:13:05,349:INFO: Epoch 60/75
+2025-12-04 00:13:22,494:INFO: - Validation loss: 0.2685
+2025-12-04 00:13:22,494:INFO: - Found new best model (val_loss=0.2685)
+2025-12-04 00:13:22,509:INFO: Epoch 61/75
+2025-12-04 00:13:39,683:INFO: - Validation loss: 0.2618
+2025-12-04 00:13:39,684:INFO: - Found new best model (val_loss=0.2618)
+2025-12-04 00:13:39,698:INFO: Epoch 62/75
+2025-12-04 00:13:56,914:INFO: - Validation loss: 0.2626
+2025-12-04 00:13:56,914:INFO: Epoch 63/75
+2025-12-04 00:14:14,085:INFO: - Validation loss: 0.2803
+2025-12-04 00:14:14,085:INFO: Epoch 64/75
+2025-12-04 00:14:31,241:INFO: - Validation loss: 0.2742
+2025-12-04 00:14:31,241:INFO: Epoch 65/75
+2025-12-04 00:14:48,392:INFO: - Validation loss: 0.2768
+2025-12-04 00:14:48,392:INFO: Epoch 66/75
+2025-12-04 00:15:05,539:INFO: - Validation loss: 0.2602
+2025-12-04 00:15:05,539:INFO: - Found new best model (val_loss=0.2602)
+2025-12-04 00:15:05,553:INFO: Epoch 67/75
+2025-12-04 00:15:22,723:INFO: - Validation loss: 0.2959
+2025-12-04 00:15:22,724:INFO: Epoch 68/75
+2025-12-04 00:15:39,884:INFO: - Validation loss: 0.3411
+2025-12-04 00:15:39,884:INFO: Epoch 69/75
+2025-12-04 00:15:57,029:INFO: - Validation loss: 0.2631
+2025-12-04 00:15:57,030:INFO: Epoch 70/75
+2025-12-04 00:16:14,177:INFO: - Validation loss: 0.2644
+2025-12-04 00:16:14,177:INFO: Epoch 71/75
+2025-12-04 00:16:31,337:INFO: - Validation loss: 0.2687
+2025-12-04 00:16:31,338:INFO: Epoch 72/75
+2025-12-04 00:16:48,493:INFO: - Validation loss: 0.2663
+2025-12-04 00:16:48,493:INFO: Epoch 73/75
+2025-12-04 00:17:05,647:INFO: - Validation loss: 0.2551
+2025-12-04 00:17:05,647:INFO: - Found new best model (val_loss=0.2551)
+2025-12-04 00:17:05,661:INFO: Epoch 74/75
+2025-12-04 00:17:22,806:INFO: - Validation loss: 0.2461
+2025-12-04 00:17:22,806:INFO: - Found new best model (val_loss=0.2461)
+2025-12-04 00:17:22,822:INFO: Epoch 75/75
+2025-12-04 00:17:39,977:INFO: - Validation loss: 0.2553
+2025-12-04 00:17:39,986:INFO: Training complete!
+2025-12-04 05:53:55,627:INFO: Loading datasets...
+2025-12-04 05:55:03,133:INFO: Loading datasets...
+2025-12-04 05:55:37,821:INFO: - Done loading data.
+2025-12-04 05:55:40,237:INFO: Starting training for 75 epochs
+2025-12-04 05:55:40,237:INFO: Epoch 1/75
+2025-12-04 05:59:21,572:INFO: Loading datasets...
+2025-12-04 05:59:56,277:INFO: - Done loading data.
+2025-12-04 05:59:57,358:INFO: Starting training for 75 epochs
+2025-12-04 05:59:57,358:INFO: Epoch 1/75
+2025-12-04 06:02:21,115:INFO: Loading datasets...
+2025-12-04 06:02:56,232:INFO: - Done loading data.
+2025-12-04 06:02:57,325:INFO: Starting training for 75 epochs
+2025-12-04 06:02:57,325:INFO: Epoch 1/75
+2025-12-04 06:03:36,316:INFO: - Validation loss: 0.5862
+2025-12-04 06:03:36,316:INFO: - Found new best model (val_loss=0.5862)
+2025-12-04 06:03:36,363:INFO: Epoch 2/75
+2025-12-04 06:04:14,786:INFO: - Validation loss: 0.5263
+2025-12-04 06:04:14,786:INFO: - Found new best model (val_loss=0.5263)
+2025-12-04 06:04:14,820:INFO: Epoch 3/75
+2025-12-04 06:04:53,369:INFO: - Validation loss: 0.5168
+2025-12-04 06:04:53,369:INFO: - Found new best model (val_loss=0.5168)
+2025-12-04 06:04:53,402:INFO: Epoch 4/75
+2025-12-04 06:05:31,989:INFO: - Validation loss: 0.4989
+2025-12-04 06:05:31,989:INFO: - Found new best model (val_loss=0.4989)
+2025-12-04 06:05:32,023:INFO: Epoch 5/75
+2025-12-04 06:06:10,641:INFO: - Validation loss: 0.4733
+2025-12-04 06:06:10,642:INFO: - Found new best model (val_loss=0.4733)
+2025-12-04 06:06:10,674:INFO: Epoch 6/75
+2025-12-04 06:09:13,644:INFO: Loading datasets...
+2025-12-04 06:09:48,642:INFO: - Done loading data.
+2025-12-04 06:09:49,719:INFO: Starting training for 75 epochs
+2025-12-04 06:09:49,719:INFO: Epoch 1/75
+2025-12-04 06:10:28,303:INFO: - Validation loss: 0.5678
+2025-12-04 06:10:28,303:INFO: - Found new best model (val_loss=0.5678)
+2025-12-04 06:10:28,336:INFO: Epoch 2/75
+2025-12-04 06:11:06,653:INFO: - Validation loss: 0.5229
+2025-12-04 06:11:06,653:INFO: - Found new best model (val_loss=0.5229)
+2025-12-04 06:11:06,696:INFO: Epoch 3/75
+2025-12-04 06:11:45,128:INFO: - Validation loss: 0.5253
+2025-12-04 06:11:45,128:INFO: Epoch 4/75
+2025-12-04 06:12:23,527:INFO: - Validation loss: 0.5499
+2025-12-04 06:12:23,527:INFO: Epoch 5/75
+2025-12-04 06:13:01,988:INFO: - Validation loss: 0.4857
+2025-12-04 06:13:01,988:INFO: - Found new best model (val_loss=0.4857)
+2025-12-04 06:13:02,020:INFO: Epoch 6/75
+2025-12-04 06:13:40,504:INFO: - Validation loss: 0.5909
+2025-12-04 06:13:40,505:INFO: Epoch 7/75
+2025-12-04 06:14:19,007:INFO: - Validation loss: 0.4567
+2025-12-04 06:14:19,008:INFO: - Found new best model (val_loss=0.4567)
+2025-12-04 06:14:19,040:INFO: Epoch 8/75
+2025-12-04 06:14:57,547:INFO: - Validation loss: 0.4921
+2025-12-04 06:14:57,548:INFO: Epoch 9/75
+2025-12-04 06:15:36,055:INFO: - Validation loss: 0.4954
+2025-12-04 06:15:36,056:INFO: Epoch 10/75
+2025-12-04 06:16:14,607:INFO: - Validation loss: 0.5452
+2025-12-04 06:16:14,608:INFO: Epoch 11/75
+2025-12-04 06:16:53,148:INFO: - Validation loss: 0.4612
+2025-12-04 06:16:53,148:INFO: Epoch 12/75
+2025-12-04 06:17:31,597:INFO: - Validation loss: 0.4617
+2025-12-04 06:17:31,597:INFO: Epoch 13/75
+2025-12-04 06:18:09,993:INFO: - Validation loss: 0.4197
+2025-12-04 06:18:09,994:INFO: - Found new best model (val_loss=0.4197)
+2025-12-04 06:18:10,027:INFO: Epoch 14/75
+2025-12-04 06:18:48,430:INFO: - Validation loss: 0.4960
+2025-12-04 06:18:48,431:INFO: Epoch 15/75
+2025-12-04 06:19:26,848:INFO: - Validation loss: 0.4521
+2025-12-04 06:19:26,848:INFO: Epoch 16/75
+2025-12-04 06:20:05,288:INFO: - Validation loss: 0.3725
+2025-12-04 06:20:05,288:INFO: - Found new best model (val_loss=0.3725)
+2025-12-04 06:20:05,321:INFO: Epoch 17/75
+2025-12-04 06:20:43,757:INFO: - Validation loss: 0.3690
+2025-12-04 06:20:43,758:INFO: - Found new best model (val_loss=0.3690)
+2025-12-04 06:20:43,790:INFO: Epoch 18/75
+2025-12-04 06:21:22,210:INFO: - Validation loss: 0.3803
+2025-12-04 06:21:22,210:INFO: Epoch 19/75
+2025-12-04 06:22:00,639:INFO: - Validation loss: 0.3592
+2025-12-04 06:22:00,640:INFO: - Found new best model (val_loss=0.3592)
+2025-12-04 06:22:00,672:INFO: Epoch 20/75
+2025-12-04 06:22:39,085:INFO: - Validation loss: 0.3349
+2025-12-04 06:22:39,085:INFO: - Found new best model (val_loss=0.3349)
+2025-12-04 06:22:39,119:INFO: Epoch 21/75
+2025-12-04 06:23:17,530:INFO: - Validation loss: 0.3435
+2025-12-04 06:23:17,531:INFO: Epoch 22/75
+2025-12-04 06:23:55,949:INFO: - Validation loss: 0.3796
+2025-12-04 06:23:55,950:INFO: Epoch 23/75
+2025-12-04 06:24:34,353:INFO: - Validation loss: 0.3381
+2025-12-04 06:24:34,353:INFO: Epoch 24/75
+2025-12-04 06:25:12,765:INFO: - Validation loss: 0.3380
+2025-12-04 06:25:12,765:INFO: Epoch 25/75
+2025-12-04 06:25:51,178:INFO: - Validation loss: 0.3399
+2025-12-04 06:25:51,178:INFO: Epoch 26/75
+2025-12-04 06:26:29,597:INFO: - Validation loss: 0.3242
+2025-12-04 06:26:29,597:INFO: - Found new best model (val_loss=0.3242)
+2025-12-04 06:26:29,629:INFO: Epoch 27/75
+2025-12-04 06:27:08,025:INFO: - Validation loss: 0.3370
+2025-12-04 06:27:08,025:INFO: Epoch 28/75
+2025-12-04 06:27:46,450:INFO: - Validation loss: 0.3676
+2025-12-04 06:27:46,451:INFO: Epoch 29/75
+2025-12-04 06:28:24,866:INFO: - Validation loss: 0.3222
+2025-12-04 06:28:24,867:INFO: - Found new best model (val_loss=0.3222)
+2025-12-04 06:28:24,899:INFO: Epoch 30/75
+2025-12-04 06:29:03,314:INFO: - Validation loss: 0.3184
+2025-12-04 06:29:03,315:INFO: - Found new best model (val_loss=0.3184)
+2025-12-04 06:29:03,348:INFO: Epoch 31/75
+2025-12-04 06:29:41,756:INFO: - Validation loss: 0.3246
+2025-12-04 06:29:41,757:INFO: Epoch 32/75
+2025-12-04 06:30:20,177:INFO: - Validation loss: 0.3201
+2025-12-04 06:30:20,178:INFO: Epoch 33/75
+2025-12-04 06:30:58,596:INFO: - Validation loss: 0.3336
+2025-12-04 06:30:58,597:INFO: Epoch 34/75
+2025-12-04 06:31:37,015:INFO: - Validation loss: 0.3237
+2025-12-04 06:31:37,015:INFO: Epoch 35/75
+2025-12-04 06:32:15,477:INFO: - Validation loss: 0.3795
+2025-12-04 06:32:15,478:INFO: Epoch 36/75
+2025-12-04 06:32:54,086:INFO: - Validation loss: 0.3226
+2025-12-04 06:32:54,087:INFO: Epoch 37/75
+2025-12-04 06:33:32,706:INFO: - Validation loss: 0.3657
+2025-12-04 06:33:32,707:INFO: Epoch 38/75
+2025-12-04 06:34:11,313:INFO: - Validation loss: 0.3133
+2025-12-04 06:34:11,313:INFO: - Found new best model (val_loss=0.3133)
+2025-12-04 06:34:11,347:INFO: Epoch 39/75
+2025-12-04 06:34:49,957:INFO: - Validation loss: 0.3391
+2025-12-04 06:34:49,958:INFO: Epoch 40/75
+2025-12-04 06:35:28,589:INFO: - Validation loss: 0.3111
+2025-12-04 06:35:28,589:INFO: - Found new best model (val_loss=0.3111)
+2025-12-04 06:35:28,622:INFO: Epoch 41/75
+2025-12-04 06:36:07,252:INFO: - Validation loss: 0.3041
+2025-12-04 06:36:07,252:INFO: - Found new best model (val_loss=0.3041)
+2025-12-04 06:36:07,285:INFO: Epoch 42/75
+2025-12-04 06:36:45,895:INFO: - Validation loss: 0.3461
+2025-12-04 06:36:45,895:INFO: Epoch 43/75
+2025-12-04 06:37:24,471:INFO: - Validation loss: 0.2908
+2025-12-04 06:37:24,472:INFO: - Found new best model (val_loss=0.2908)
+2025-12-04 06:37:24,505:INFO: Epoch 44/75
+2025-12-04 06:38:03,139:INFO: - Validation loss: 0.2953
+2025-12-04 06:38:03,140:INFO: Epoch 45/75
+2025-12-04 06:38:41,808:INFO: - Validation loss: 0.2934
+2025-12-04 06:38:41,808:INFO: Epoch 46/75
+2025-12-04 06:39:20,482:INFO: - Validation loss: 0.3202
+2025-12-04 06:39:20,482:INFO: Epoch 47/75
+2025-12-04 06:39:59,164:INFO: - Validation loss: 0.3043
+2025-12-04 06:39:59,164:INFO: Epoch 48/75
+2025-12-04 06:40:37,847:INFO: - Validation loss: 0.2980
+2025-12-04 06:40:37,848:INFO: Epoch 49/75
+2025-12-04 06:41:16,522:INFO: - Validation loss: 0.2911
+2025-12-04 06:41:16,522:INFO: Epoch 50/75
+2025-12-04 06:41:55,180:INFO: - Validation loss: 0.2895
+2025-12-04 06:41:55,180:INFO: - Found new best model (val_loss=0.2895)
+2025-12-04 06:41:55,213:INFO: Epoch 51/75
+2025-12-04 06:42:33,854:INFO: - Validation loss: 0.2892
+2025-12-04 06:42:33,855:INFO: - Found new best model (val_loss=0.2892)
+2025-12-04 06:42:33,906:INFO: Epoch 52/75
+2025-12-04 06:43:12,534:INFO: - Validation loss: 0.3016
+2025-12-04 06:43:12,535:INFO: Epoch 53/75
+2025-12-04 06:43:51,162:INFO: - Validation loss: 0.3136
+2025-12-04 06:43:51,163:INFO: Epoch 54/75
+2025-12-04 06:44:29,770:INFO: - Validation loss: 0.2844
+2025-12-04 06:44:29,770:INFO: - Found new best model (val_loss=0.2844)
+2025-12-04 06:44:29,797:INFO: Epoch 55/75
+2025-12-04 06:45:08,409:INFO: - Validation loss: 0.2893
+2025-12-04 06:45:08,409:INFO: Epoch 56/75
+2025-12-04 06:45:47,020:INFO: - Validation loss: 0.2889
+2025-12-04 06:45:47,021:INFO: Epoch 57/75
+2025-12-04 06:46:25,520:INFO: - Validation loss: 0.2861
+2025-12-04 06:46:25,521:INFO: Epoch 58/75
+2025-12-04 06:47:03,911:INFO: - Validation loss: 0.2802
+2025-12-04 06:47:03,911:INFO: - Found new best model (val_loss=0.2802)
+2025-12-04 06:47:03,943:INFO: Epoch 59/75
+2025-12-04 06:47:42,358:INFO: - Validation loss: 0.2901
+2025-12-04 06:47:42,358:INFO: Epoch 60/75
+2025-12-04 06:48:20,974:INFO: - Validation loss: 0.2743
+2025-12-04 06:48:20,975:INFO: - Found new best model (val_loss=0.2743)
+2025-12-04 06:48:21,008:INFO: Epoch 61/75
+2025-12-04 06:48:59,602:INFO: - Validation loss: 0.2828
+2025-12-04 06:48:59,602:INFO: Epoch 62/75
+2025-12-04 06:49:38,211:INFO: - Validation loss: 0.2731
+2025-12-04 06:49:38,211:INFO: - Found new best model (val_loss=0.2731)
+2025-12-04 06:49:38,246:INFO: Epoch 63/75
+2025-12-04 06:50:16,900:INFO: - Validation loss: 0.2823
+2025-12-04 06:50:16,901:INFO: Epoch 64/75
+2025-12-04 06:50:55,610:INFO: - Validation loss: 0.2740
+2025-12-04 06:50:55,610:INFO: Epoch 65/75
+2025-12-04 06:51:34,210:INFO: - Validation loss: 0.2681
+2025-12-04 06:51:34,210:INFO: - Found new best model (val_loss=0.2681)
+2025-12-04 06:51:34,243:INFO: Epoch 66/75
+2025-12-04 06:52:12,854:INFO: - Validation loss: 0.2764
+2025-12-04 06:52:12,854:INFO: Epoch 67/75
+2025-12-04 06:52:51,451:INFO: - Validation loss: 0.2724
+2025-12-04 06:52:51,451:INFO: Epoch 68/75
+2025-12-04 06:53:30,053:INFO: - Validation loss: 0.2647
+2025-12-04 06:53:30,053:INFO: - Found new best model (val_loss=0.2647)
+2025-12-04 06:53:30,087:INFO: Epoch 69/75
+2025-12-04 06:54:08,689:INFO: - Validation loss: 0.2615
+2025-12-04 06:54:08,689:INFO: - Found new best model (val_loss=0.2615)
+2025-12-04 06:54:08,722:INFO: Epoch 70/75
+2025-12-04 06:54:47,330:INFO: - Validation loss: 0.2816
+2025-12-04 06:54:47,330:INFO: Epoch 71/75
+2025-12-04 06:55:25,967:INFO: - Validation loss: 0.2691
+2025-12-04 06:55:25,968:INFO: Epoch 72/75
+2025-12-04 06:56:04,626:INFO: - Validation loss: 0.2599
+2025-12-04 06:56:04,626:INFO: - Found new best model (val_loss=0.2599)
+2025-12-04 06:56:04,659:INFO: Epoch 73/75
+2025-12-04 06:56:43,301:INFO: - Validation loss: 0.2542
+2025-12-04 06:56:43,302:INFO: - Found new best model (val_loss=0.2542)
+2025-12-04 06:56:43,335:INFO: Epoch 74/75
+2025-12-04 06:57:21,960:INFO: - Validation loss: 0.2689
+2025-12-04 06:57:21,960:INFO: Epoch 75/75
+2025-12-04 06:58:00,573:INFO: - Validation loss: 0.2606
+2025-12-04 06:58:00,605:INFO: Training complete!
+2025-12-04 07:03:10,554:INFO: Loading datasets...
+2025-12-04 07:03:11,540:INFO: - Done loading data.
+2025-12-04 07:03:12,673:INFO: Starting training for 75 epochs
+2025-12-04 07:03:12,673:INFO: Epoch 1/75
+2025-12-04 07:07:33,385:INFO: Loading datasets...
+2025-12-04 07:07:34,275:INFO: - Done loading data.
+2025-12-04 07:07:35,394:INFO: Starting training for 75 epochs
+2025-12-04 07:07:35,394:INFO: Epoch 1/75
+2025-12-04 07:08:51,552:INFO: Loading datasets...
+2025-12-04 07:08:52,450:INFO: - Done loading data.
+2025-12-04 07:08:53,584:INFO: Starting training for 75 epochs
+2025-12-04 07:08:53,584:INFO: Epoch 1/75
+2025-12-04 07:09:15,727:INFO: - Validation loss: 0.7120
+2025-12-04 07:09:15,727:INFO: - Found new best model (val_loss=0.7120)
+2025-12-04 07:09:15,790:INFO: Epoch 2/75
+2025-12-04 07:09:37,394:INFO: - Validation loss: 0.5466
+2025-12-04 07:09:37,395:INFO: - Found new best model (val_loss=0.5466)
+2025-12-04 07:09:37,457:INFO: Epoch 3/75
+2025-12-04 07:09:59,123:INFO: - Validation loss: 0.9864
+2025-12-04 07:09:59,123:INFO: Epoch 4/75
+2025-12-04 07:10:20,818:INFO: - Validation loss: 0.9748
+2025-12-04 07:10:20,819:INFO: Epoch 5/75
+2025-12-04 07:10:42,540:INFO: - Validation loss: 0.4880
+2025-12-04 07:10:42,540:INFO: - Found new best model (val_loss=0.4880)
+2025-12-04 07:10:42,603:INFO: Epoch 6/75
+2025-12-04 07:11:04,310:INFO: - Validation loss: 0.5520
+2025-12-04 07:11:04,311:INFO: Epoch 7/75
+2025-12-04 07:11:26,035:INFO: - Validation loss: 0.6322
+2025-12-04 07:11:26,035:INFO: Epoch 8/75
+2025-12-04 07:11:47,781:INFO: - Validation loss: 0.5583
+2025-12-04 07:11:47,782:INFO: Epoch 9/75
+2025-12-04 07:12:09,535:INFO: - Validation loss: 0.4750
+2025-12-04 07:12:09,535:INFO: - Found new best model (val_loss=0.4750)
+2025-12-04 07:12:09,599:INFO: Epoch 10/75
+2025-12-04 07:12:31,328:INFO: - Validation loss: 0.9220
+2025-12-04 07:12:31,328:INFO: Epoch 11/75
+2025-12-04 07:12:53,057:INFO: - Validation loss: 0.4371
+2025-12-04 07:12:53,057:INFO: - Found new best model (val_loss=0.4371)
+2025-12-04 07:12:53,119:INFO: Epoch 12/75
+2025-12-04 07:13:14,808:INFO: - Validation loss: 0.4421
+2025-12-04 07:13:14,809:INFO: Epoch 13/75
+2025-12-04 07:13:36,481:INFO: - Validation loss: 0.3985
+2025-12-04 07:13:36,482:INFO: - Found new best model (val_loss=0.3985)
+2025-12-04 07:13:36,545:INFO: Epoch 14/75
+2025-12-04 07:13:58,262:INFO: - Validation loss: 0.5568
+2025-12-04 07:13:58,262:INFO: Epoch 15/75
+2025-12-04 07:14:19,990:INFO: - Validation loss: 0.4706
+2025-12-04 07:14:19,991:INFO: Epoch 16/75
+2025-12-04 07:14:41,702:INFO: - Validation loss: 0.3935
+2025-12-04 07:14:41,702:INFO: - Found new best model (val_loss=0.3935)
+2025-12-04 07:14:41,794:INFO: Epoch 17/75
+2025-12-04 07:15:03,499:INFO: - Validation loss: 0.3648
+2025-12-04 07:15:03,499:INFO: - Found new best model (val_loss=0.3648)
+2025-12-04 07:15:03,572:INFO: Epoch 18/75
+2025-12-04 07:15:25,280:INFO: - Validation loss: 0.5285
+2025-12-04 07:15:25,280:INFO: Epoch 19/75
+2025-12-04 07:15:46,968:INFO: - Validation loss: 0.3913
+2025-12-04 07:15:46,968:INFO: Epoch 20/75
+2025-12-04 07:16:08,680:INFO: - Validation loss: 0.3709
+2025-12-04 07:16:08,680:INFO: Epoch 21/75
+2025-12-04 07:16:30,383:INFO: - Validation loss: 0.3589
+2025-12-04 07:16:30,383:INFO: - Found new best model (val_loss=0.3589)
+2025-12-04 07:16:30,434:INFO: Epoch 22/75
+2025-12-04 07:16:52,133:INFO: - Validation loss: 0.3407
+2025-12-04 07:16:52,133:INFO: - Found new best model (val_loss=0.3407)
+2025-12-04 07:16:52,193:INFO: Epoch 23/75
+2025-12-04 07:17:13,850:INFO: - Validation loss: 0.3598
+2025-12-04 07:17:13,850:INFO: Epoch 24/75
+2025-12-04 07:17:35,554:INFO: - Validation loss: 0.3963
+2025-12-04 07:17:35,554:INFO: Epoch 25/75
+2025-12-04 07:17:57,310:INFO: - Validation loss: 0.3959
+2025-12-04 07:17:57,310:INFO: Epoch 26/75
+2025-12-04 07:18:18,994:INFO: - Validation loss: 0.3286
+2025-12-04 07:18:18,994:INFO: - Found new best model (val_loss=0.3286)
+2025-12-04 07:18:19,056:INFO: Epoch 27/75
+2025-12-04 07:18:40,761:INFO: - Validation loss: 0.3532
+2025-12-04 07:18:40,762:INFO: Epoch 28/75
+2025-12-04 07:19:02,448:INFO: - Validation loss: 0.3375
+2025-12-04 07:19:02,448:INFO: Epoch 29/75
+2025-12-04 07:19:24,140:INFO: - Validation loss: 0.3266
+2025-12-04 07:19:24,140:INFO: - Found new best model (val_loss=0.3266)
+2025-12-04 07:19:24,204:INFO: Epoch 30/75
+2025-12-04 07:19:45,899:INFO: - Validation loss: 0.3328
+2025-12-04 07:19:45,899:INFO: Epoch 31/75
+2025-12-04 07:20:07,606:INFO: - Validation loss: 0.3300
+2025-12-04 07:20:07,606:INFO: Epoch 32/75
+2025-12-04 07:20:29,343:INFO: - Validation loss: 0.3123
+2025-12-04 07:20:29,343:INFO: - Found new best model (val_loss=0.3123)
+2025-12-04 07:20:29,405:INFO: Epoch 33/75
+2025-12-04 07:20:51,134:INFO: - Validation loss: 0.3086
+2025-12-04 07:20:51,134:INFO: - Found new best model (val_loss=0.3086)
+2025-12-04 07:20:51,201:INFO: Epoch 34/75
+2025-12-04 07:21:12,963:INFO: - Validation loss: 0.2987
+2025-12-04 07:21:12,963:INFO: - Found new best model (val_loss=0.2987)
+2025-12-04 07:21:13,027:INFO: Epoch 35/75
+2025-12-04 07:21:34,779:INFO: - Validation loss: 0.3168
+2025-12-04 07:21:34,779:INFO: Epoch 36/75
+2025-12-04 07:21:56,526:INFO: - Validation loss: 0.3003
+2025-12-04 07:21:56,527:INFO: Epoch 37/75
+2025-12-04 07:22:18,279:INFO: - Validation loss: 0.3149
+2025-12-04 07:22:18,279:INFO: Epoch 38/75
+2025-12-04 07:22:40,026:INFO: - Validation loss: 0.2999
+2025-12-04 07:22:40,026:INFO: Epoch 39/75
+2025-12-04 07:23:01,725:INFO: - Validation loss: 0.2834
+2025-12-04 07:23:01,725:INFO: - Found new best model (val_loss=0.2834)
+2025-12-04 07:23:01,794:INFO: Epoch 40/75
+2025-12-04 07:23:23,479:INFO: - Validation loss: 0.2999
+2025-12-04 07:23:23,480:INFO: Epoch 41/75
+2025-12-04 07:23:45,153:INFO: - Validation loss: 0.2891
+2025-12-04 07:23:45,153:INFO: Epoch 42/75
+2025-12-04 07:24:06,841:INFO: - Validation loss: 0.2697
+2025-12-04 07:24:06,841:INFO: - Found new best model (val_loss=0.2697)
+2025-12-04 07:24:06,926:INFO: Epoch 43/75
+2025-12-04 07:24:28,604:INFO: - Validation loss: 0.2838
+2025-12-04 07:24:28,604:INFO: Epoch 44/75
+2025-12-04 07:24:50,279:INFO: - Validation loss: 0.3093
+2025-12-04 07:24:50,280:INFO: Epoch 45/75
+2025-12-04 07:25:11,962:INFO: - Validation loss: 0.2824
+2025-12-04 07:25:11,963:INFO: Epoch 46/75
+2025-12-04 07:25:33,631:INFO: - Validation loss: 0.2795
+2025-12-04 07:25:33,631:INFO: Epoch 47/75
+2025-12-04 07:25:55,301:INFO: - Validation loss: 0.2690
+2025-12-04 07:25:55,301:INFO: - Found new best model (val_loss=0.2690)
+2025-12-04 07:25:55,356:INFO: Epoch 48/75
+2025-12-04 07:26:17,022:INFO: - Validation loss: 0.2755
+2025-12-04 07:26:17,022:INFO: Epoch 49/75
+2025-12-04 07:26:38,698:INFO: - Validation loss: 0.2572
+2025-12-04 07:26:38,698:INFO: - Found new best model (val_loss=0.2572)
+2025-12-04 07:26:38,762:INFO: Epoch 50/75
+2025-12-04 07:27:00,472:INFO: - Validation loss: 0.2746
+2025-12-04 07:27:00,472:INFO: Epoch 51/75
+2025-12-04 07:27:22,161:INFO: - Validation loss: 0.2670
+2025-12-04 07:27:22,161:INFO: Epoch 52/75
+2025-12-04 07:27:43,839:INFO: - Validation loss: 0.2942
+2025-12-04 07:27:43,839:INFO: Epoch 53/75
+2025-12-04 07:28:05,519:INFO: - Validation loss: 0.2763
+2025-12-04 07:28:05,519:INFO: Epoch 54/75
+2025-12-04 07:28:27,200:INFO: - Validation loss: 0.2466
+2025-12-04 07:28:27,200:INFO: - Found new best model (val_loss=0.2466)
+2025-12-04 07:28:27,263:INFO: Epoch 55/75
+2025-12-04 07:28:48,939:INFO: - Validation loss: 0.2843
+2025-12-04 07:28:48,940:INFO: Epoch 56/75
+2025-12-04 07:29:10,584:INFO: - Validation loss: 0.2592
+2025-12-04 07:29:10,584:INFO: Epoch 57/75
+2025-12-04 07:29:32,246:INFO: - Validation loss: 0.2674
+2025-12-04 07:29:32,246:INFO: Epoch 58/75
+2025-12-04 07:29:53,924:INFO: - Validation loss: 0.2530
+2025-12-04 07:29:53,924:INFO: Epoch 59/75
+2025-12-04 07:30:15,588:INFO: - Validation loss: 0.2822
+2025-12-04 07:30:15,588:INFO: Epoch 60/75
+2025-12-04 07:30:37,257:INFO: - Validation loss: 0.2758
+2025-12-04 07:30:37,258:INFO: Epoch 61/75
+2025-12-04 07:30:58,923:INFO: - Validation loss: 0.2580
+2025-12-04 07:30:58,923:INFO: Epoch 62/75
+2025-12-04 07:31:20,597:INFO: - Validation loss: 0.2642
+2025-12-04 07:31:20,597:INFO: Epoch 63/75
+2025-12-04 07:31:42,257:INFO: - Validation loss: 0.2538
+2025-12-04 07:31:42,257:INFO: Epoch 64/75
+2025-12-04 07:32:03,955:INFO: - Validation loss: 0.2696
+2025-12-04 07:32:03,955:INFO: Epoch 65/75
+2025-12-04 07:32:25,624:INFO: - Validation loss: 0.3399
+2025-12-04 07:32:25,625:INFO: Epoch 66/75
+2025-12-04 07:32:47,279:INFO: - Validation loss: 0.2970
+2025-12-04 07:32:47,279:INFO: Epoch 67/75
+2025-12-04 07:33:08,940:INFO: - Validation loss: 0.2567
+2025-12-04 07:33:08,940:INFO: Epoch 68/75
+2025-12-04 07:33:30,578:INFO: - Validation loss: 0.2696
+2025-12-04 07:33:30,578:INFO: Epoch 69/75
+2025-12-04 07:33:52,224:INFO: - Validation loss: 0.2604
+2025-12-04 07:33:52,224:INFO: Epoch 70/75
+2025-12-04 07:34:13,885:INFO: - Validation loss: 0.2667
+2025-12-04 07:34:13,885:INFO: Epoch 71/75
+2025-12-04 07:34:35,557:INFO: - Validation loss: 0.2715
+2025-12-04 07:34:35,557:INFO: Epoch 72/75
+2025-12-04 07:34:57,216:INFO: - Validation loss: 0.2493
+2025-12-04 07:34:57,217:INFO: Epoch 73/75
+2025-12-04 07:35:18,877:INFO: - Validation loss: 0.2639
+2025-12-04 07:35:18,877:INFO: Epoch 74/75
+2025-12-04 07:35:40,586:INFO: - Validation loss: 0.2728
+2025-12-04 07:35:40,586:INFO: Epoch 75/75
+2025-12-04 07:36:02,258:INFO: - Validation loss: 0.2500
+2025-12-04 07:36:02,320:INFO: Training complete!
+2025-12-04 21:53:04,108:INFO: Loading datasets...
+2025-12-04 21:53:04,988:INFO: - Done loading data.
+2025-12-04 21:53:06,037:INFO: Starting training for 75 epochs
+2025-12-04 21:53:06,037:INFO: Epoch 1/75
+2025-12-04 21:53:27,707:INFO: - Validation loss: 0.7612
+2025-12-04 21:53:27,707:INFO: - Found new best model (val_loss=0.7612)
+2025-12-04 21:53:27,773:INFO: Epoch 2/75
+2025-12-04 21:53:49,046:INFO: - Validation loss: 0.5925
+2025-12-04 21:53:49,046:INFO: - Found new best model (val_loss=0.5925)
+2025-12-04 21:53:49,112:INFO: Epoch 3/75
+2025-12-04 21:54:10,608:INFO: - Validation loss: 1.0483
+2025-12-04 21:54:10,608:INFO: Epoch 4/75
+2025-12-04 21:54:32,237:INFO: - Validation loss: 0.7316
+2025-12-04 21:54:32,238:INFO: Epoch 5/75
+2025-12-04 21:54:53,796:INFO: - Validation loss: 0.5569
+2025-12-04 21:54:53,796:INFO: - Found new best model (val_loss=0.5569)
+2025-12-04 21:54:53,843:INFO: Epoch 6/75
+2025-12-04 21:55:15,491:INFO: - Validation loss: 0.5079
+2025-12-04 21:55:15,491:INFO: - Found new best model (val_loss=0.5079)
+2025-12-04 21:55:15,554:INFO: Epoch 7/75
+2025-12-04 21:55:37,204:INFO: - Validation loss: 0.6245
+2025-12-04 21:55:37,204:INFO: Epoch 8/75
+2025-12-04 21:55:58,855:INFO: - Validation loss: 0.5956
+2025-12-04 21:55:58,856:INFO: Epoch 9/75
+2025-12-04 21:56:20,495:INFO: - Validation loss: 0.4307
+2025-12-04 21:56:20,495:INFO: - Found new best model (val_loss=0.4307)
+2025-12-04 21:56:20,569:INFO: Epoch 10/75
+2025-12-04 21:56:42,226:INFO: - Validation loss: 1.0395
+2025-12-04 21:56:42,226:INFO: Epoch 11/75
+2025-12-04 21:57:03,904:INFO: - Validation loss: 0.4015
+2025-12-04 21:57:03,905:INFO: - Found new best model (val_loss=0.4015)
+2025-12-04 21:57:03,973:INFO: Epoch 12/75
+2025-12-04 21:57:25,587:INFO: - Validation loss: 0.3987
+2025-12-04 21:57:25,587:INFO: - Found new best model (val_loss=0.3987)
+2025-12-04 21:57:25,656:INFO: Epoch 13/75
+2025-12-04 21:57:47,193:INFO: - Validation loss: 0.4020
+2025-12-04 21:57:47,194:INFO: Epoch 14/75
+2025-12-04 21:58:08,707:INFO: - Validation loss: 0.5127
+2025-12-04 21:58:08,707:INFO: Epoch 15/75
+2025-12-04 21:58:30,131:INFO: - Validation loss: 0.4702
+2025-12-04 21:58:30,131:INFO: Epoch 16/75
+2025-12-04 21:58:51,491:INFO: - Validation loss: 0.3721
+2025-12-04 21:58:51,491:INFO: - Found new best model (val_loss=0.3721)
+2025-12-04 21:58:51,556:INFO: Epoch 17/75
+2025-12-04 21:59:12,926:INFO: - Validation loss: 0.4163
+2025-12-04 21:59:12,926:INFO: Epoch 18/75
+2025-12-04 21:59:34,402:INFO: - Validation loss: 0.5286
+2025-12-04 21:59:34,402:INFO: Epoch 19/75
+2025-12-04 21:59:56,000:INFO: - Validation loss: 0.3759
+2025-12-04 21:59:56,001:INFO: Epoch 20/75
+2025-12-04 22:00:17,664:INFO: - Validation loss: 0.3590
+2025-12-04 22:00:17,665:INFO: - Found new best model (val_loss=0.3590)
+2025-12-04 22:00:17,733:INFO: Epoch 21/75
+2025-12-04 22:00:39,429:INFO: - Validation loss: 0.3880
+2025-12-04 22:00:39,430:INFO: Epoch 22/75
+2025-12-04 22:01:01,037:INFO: - Validation loss: 0.4013
+2025-12-04 22:01:01,037:INFO: Epoch 23/75
+2025-12-04 22:01:22,588:INFO: - Validation loss: 0.3447
+2025-12-04 22:01:22,589:INFO: - Found new best model (val_loss=0.3447)
+2025-12-04 22:01:22,651:INFO: Epoch 24/75
+2025-12-04 22:01:44,269:INFO: - Validation loss: 0.3500
+2025-12-04 22:01:44,269:INFO: Epoch 25/75
+2025-12-04 22:02:05,861:INFO: - Validation loss: 0.3263
+2025-12-04 22:02:05,861:INFO: - Found new best model (val_loss=0.3263)
+2025-12-04 22:02:05,955:INFO: Epoch 26/75
+2025-12-04 22:02:27,574:INFO: - Validation loss: 0.3631
+2025-12-04 22:02:27,575:INFO: Epoch 27/75
+2025-12-04 22:02:49,219:INFO: - Validation loss: 0.3518
+2025-12-04 22:02:49,219:INFO: Epoch 28/75
+2025-12-04 22:03:10,791:INFO: - Validation loss: 0.3388
+2025-12-04 22:03:10,792:INFO: Epoch 29/75
+2025-12-04 22:03:32,332:INFO: - Validation loss: 0.2942
+2025-12-04 22:03:32,332:INFO: - Found new best model (val_loss=0.2942)
+2025-12-04 22:03:32,441:INFO: Epoch 30/75
+2025-12-04 22:03:54,005:INFO: - Validation loss: 0.3397
+2025-12-04 22:03:54,005:INFO: Epoch 31/75
+2025-12-04 22:04:15,584:INFO: - Validation loss: 0.3402
+2025-12-04 22:04:15,585:INFO: Epoch 32/75
+2025-12-04 22:04:37,216:INFO: - Validation loss: 0.3319
+2025-12-04 22:04:37,216:INFO: Epoch 33/75
+2025-12-04 22:04:58,850:INFO: - Validation loss: 0.3202
+2025-12-04 22:04:58,850:INFO: Epoch 34/75
+2025-12-04 22:05:20,499:INFO: - Validation loss: 0.2989
+2025-12-04 22:05:20,500:INFO: Epoch 35/75
+2025-12-04 22:05:42,107:INFO: - Validation loss: 0.3026
+2025-12-04 22:05:42,108:INFO: Epoch 36/75
+2025-12-04 22:06:03,666:INFO: - Validation loss: 0.2927
+2025-12-04 22:06:03,666:INFO: - Found new best model (val_loss=0.2927)
+2025-12-04 22:06:03,756:INFO: Epoch 37/75
+2025-12-04 22:06:25,287:INFO: - Validation loss: 0.3108
+2025-12-04 22:06:25,288:INFO: Epoch 38/75
+2025-12-04 22:06:46,768:INFO: - Validation loss: 0.2982
+2025-12-04 22:06:46,769:INFO: Epoch 39/75
+2025-12-04 22:07:08,207:INFO: - Validation loss: 0.2911
+2025-12-04 22:07:08,207:INFO: - Found new best model (val_loss=0.2911)
+2025-12-04 22:07:08,260:INFO: Epoch 40/75
+2025-12-04 22:07:29,727:INFO: - Validation loss: 0.3045
+2025-12-04 22:07:29,727:INFO: Epoch 41/75
+2025-12-04 22:07:51,191:INFO: - Validation loss: 0.2856
+2025-12-04 22:07:51,192:INFO: - Found new best model (val_loss=0.2856)
+2025-12-04 22:07:51,250:INFO: Epoch 42/75
+2025-12-04 22:08:12,812:INFO: - Validation loss: 0.2648
+2025-12-04 22:08:12,812:INFO: - Found new best model (val_loss=0.2648)
+2025-12-04 22:08:12,873:INFO: Epoch 43/75
+2025-12-04 22:08:34,504:INFO: - Validation loss: 0.3025
+2025-12-04 22:08:34,505:INFO: Epoch 44/75
+2025-12-04 22:08:56,196:INFO: - Validation loss: 0.2630
+2025-12-04 22:08:56,196:INFO: - Found new best model (val_loss=0.2630)
+2025-12-04 22:08:56,255:INFO: Epoch 45/75
+2025-12-04 22:09:17,921:INFO: - Validation loss: 0.2753
+2025-12-04 22:09:17,921:INFO: Epoch 46/75
+2025-12-04 22:09:39,530:INFO: - Validation loss: 0.2834
+2025-12-04 22:09:39,531:INFO: Epoch 47/75
+2025-12-04 22:10:01,093:INFO: - Validation loss: 0.2599
+2025-12-04 22:10:01,093:INFO: - Found new best model (val_loss=0.2599)
+2025-12-04 22:10:01,194:INFO: Epoch 48/75
+2025-12-04 22:10:22,819:INFO: - Validation loss: 0.2641
+2025-12-04 22:10:22,819:INFO: Epoch 49/75
+2025-12-04 22:10:44,395:INFO: - Validation loss: 0.3010
+2025-12-04 22:10:44,395:INFO: Epoch 50/75
+2025-12-04 22:11:06,042:INFO: - Validation loss: 0.2839
+2025-12-04 22:11:06,042:INFO: Epoch 51/75
+2025-12-04 22:11:27,622:INFO: - Validation loss: 0.2778
+2025-12-04 22:11:27,622:INFO: Epoch 52/75
+2025-12-04 22:11:49,112:INFO: - Validation loss: 0.2682
+2025-12-04 22:11:49,112:INFO: Epoch 53/75
+2025-12-04 22:12:10,670:INFO: - Validation loss: 0.2584
+2025-12-04 22:12:10,670:INFO: - Found new best model (val_loss=0.2584)
+2025-12-04 22:12:10,724:INFO: Epoch 54/75
+2025-12-04 22:12:32,266:INFO: - Validation loss: 0.2599
+2025-12-04 22:12:32,267:INFO: Epoch 55/75
+2025-12-04 22:12:53,867:INFO: - Validation loss: 0.2553
+2025-12-04 22:12:53,867:INFO: - Found new best model (val_loss=0.2553)
+2025-12-04 22:12:53,923:INFO: Epoch 56/75
+2025-12-04 22:13:15,530:INFO: - Validation loss: 0.2797
+2025-12-04 22:13:15,530:INFO: Epoch 57/75
+2025-12-04 22:13:37,123:INFO: - Validation loss: 0.2550
+2025-12-04 22:13:37,123:INFO: - Found new best model (val_loss=0.2550)
+2025-12-04 22:13:37,173:INFO: Epoch 58/75
+2025-12-04 22:13:58,758:INFO: - Validation loss: 0.2606
+2025-12-04 22:13:58,758:INFO: Epoch 59/75
+2025-12-04 22:14:20,312:INFO: - Validation loss: 0.2558
+2025-12-04 22:14:20,312:INFO: Epoch 60/75
+2025-12-04 22:14:41,823:INFO: - Validation loss: 0.2650
+2025-12-04 22:14:41,823:INFO: Epoch 61/75
+2025-12-04 22:15:03,311:INFO: - Validation loss: 0.2698
+2025-12-04 22:15:03,312:INFO: Epoch 62/75
+2025-12-04 22:15:24,773:INFO: - Validation loss: 0.2693
+2025-12-04 22:15:24,773:INFO: Epoch 63/75
+2025-12-04 22:15:46,244:INFO: - Validation loss: 0.2618
+2025-12-04 22:15:46,244:INFO: Epoch 64/75
+2025-12-04 22:16:07,707:INFO: - Validation loss: 0.2409
+2025-12-04 22:16:07,707:INFO: - Found new best model (val_loss=0.2409)
+2025-12-04 22:16:07,774:INFO: Epoch 65/75
+2025-12-04 22:16:29,279:INFO: - Validation loss: 0.2452
+2025-12-04 22:16:29,279:INFO: Epoch 66/75
+2025-12-04 22:16:50,753:INFO: - Validation loss: 0.2450
+2025-12-04 22:16:50,754:INFO: Epoch 67/75
+2025-12-04 22:17:12,218:INFO: - Validation loss: 0.2411
+2025-12-04 22:17:12,219:INFO: Epoch 68/75
+2025-12-04 22:17:33,673:INFO: - Validation loss: 0.2490
+2025-12-04 22:17:33,673:INFO: Epoch 69/75
+2025-12-04 22:17:55,114:INFO: - Validation loss: 0.2544
+2025-12-04 22:17:55,115:INFO: Epoch 70/75
+2025-12-04 22:18:16,619:INFO: - Validation loss: 0.2474
+2025-12-04 22:18:16,620:INFO: Epoch 71/75
+2025-12-04 22:18:38,167:INFO: - Validation loss: 0.2894
+2025-12-04 22:18:38,167:INFO: Epoch 72/75
+2025-12-04 22:18:59,720:INFO: - Validation loss: 0.2568
+2025-12-04 22:18:59,721:INFO: Epoch 73/75
+2025-12-04 22:19:21,251:INFO: - Validation loss: 0.2493
+2025-12-04 22:19:21,252:INFO: Epoch 74/75
+2025-12-04 22:19:42,795:INFO: - Validation loss: 0.2412
+2025-12-04 22:19:42,795:INFO: Epoch 75/75
+2025-12-04 22:20:04,357:INFO: - Validation loss: 0.2553
+2025-12-04 22:20:04,423:INFO: Training complete!
+2025-12-06 02:46:54,609:INFO: Loading datasets...
+2025-12-06 02:46:56,665:INFO: Train size: 24044, Val size: 3006, Test size: 3006
+2025-12-06 02:46:56,665:INFO: Epoch 1/75
+2025-12-06 02:47:23,863:INFO: - Validation loss: 0.6112
+2025-12-06 02:47:23,863:INFO: - Found new best model (val_loss=0.6112)
+2025-12-06 02:47:23,925:INFO: Epoch 2/75
+2025-12-06 02:47:50,821:INFO: - Validation loss: 0.5988
+2025-12-06 02:47:50,821:INFO: - Found new best model (val_loss=0.5988)
+2025-12-06 02:47:50,884:INFO: Epoch 3/75
+2025-12-06 02:48:17,757:INFO: - Validation loss: 0.5916
+2025-12-06 02:48:17,757:INFO: - Found new best model (val_loss=0.5916)
+2025-12-06 02:48:17,819:INFO: Epoch 4/75
+2025-12-06 02:48:44,694:INFO: - Validation loss: 0.6278
+2025-12-06 02:48:44,695:INFO: Epoch 5/75
+2025-12-06 02:49:11,604:INFO: - Validation loss: 0.6426
+2025-12-06 02:49:11,605:INFO: Epoch 6/75
+2025-12-06 02:49:38,533:INFO: - Validation loss: 0.7401
+2025-12-06 02:49:38,533:INFO: Epoch 7/75
+2025-12-06 02:50:05,487:INFO: - Validation loss: 0.6003
+2025-12-06 02:50:05,487:INFO: Epoch 8/75
+2025-12-06 02:50:32,434:INFO: - Validation loss: 0.5716
+2025-12-06 02:50:32,435:INFO: - Found new best model (val_loss=0.5716)
+2025-12-06 02:50:32,496:INFO: Epoch 9/75
+2025-12-06 02:50:59,412:INFO: - Validation loss: 0.5697
+2025-12-06 02:50:59,413:INFO: - Found new best model (val_loss=0.5697)
+2025-12-06 02:50:59,475:INFO: Epoch 10/75
+2025-12-06 02:51:26,459:INFO: - Validation loss: 0.6691
+2025-12-06 02:51:26,460:INFO: Epoch 11/75
+2025-12-06 02:51:53,417:INFO: - Validation loss: 0.6296
+2025-12-06 02:51:53,417:INFO: Epoch 12/75
+2025-12-06 02:52:20,336:INFO: - Validation loss: 0.5527
+2025-12-06 02:52:20,337:INFO: - Found new best model (val_loss=0.5527)
+2025-12-06 02:52:20,399:INFO: Epoch 13/75
+2025-12-06 02:52:47,342:INFO: - Validation loss: 0.5424
+2025-12-06 02:52:47,342:INFO: - Found new best model (val_loss=0.5424)
+2025-12-06 02:52:47,404:INFO: Epoch 14/75
+2025-12-06 02:53:14,318:INFO: - Validation loss: 0.5610
+2025-12-06 02:53:14,318:INFO: Epoch 15/75
+2025-12-06 02:53:41,266:INFO: - Validation loss: 0.5271
+2025-12-06 02:53:41,267:INFO: - Found new best model (val_loss=0.5271)
+2025-12-06 02:53:41,330:INFO: Epoch 16/75
+2025-12-06 02:54:08,259:INFO: - Validation loss: 0.5328
+2025-12-06 02:54:08,259:INFO: Epoch 17/75
+2025-12-06 02:54:35,159:INFO: - Validation loss: 0.4435
+2025-12-06 02:54:35,160:INFO: - Found new best model (val_loss=0.4435)
+2025-12-06 02:54:35,223:INFO: Epoch 18/75
+2025-12-06 02:55:02,153:INFO: - Validation loss: 0.4220
+2025-12-06 02:55:02,153:INFO: - Found new best model (val_loss=0.4220)
+2025-12-06 02:55:02,215:INFO: Epoch 19/75
+2025-12-06 02:55:29,130:INFO: - Validation loss: 0.3962
+2025-12-06 02:55:29,130:INFO: - Found new best model (val_loss=0.3962)
+2025-12-06 02:55:29,193:INFO: Epoch 20/75
+2025-12-06 02:55:56,090:INFO: - Validation loss: 0.3891
+2025-12-06 02:55:56,091:INFO: - Found new best model (val_loss=0.3891)
+2025-12-06 02:55:56,153:INFO: Epoch 21/75
+2025-12-06 02:56:23,059:INFO: - Validation loss: 0.4092
+2025-12-06 02:56:23,060:INFO: Epoch 22/75
+2025-12-06 02:56:49,960:INFO: - Validation loss: 0.3833
+2025-12-06 02:56:49,960:INFO: - Found new best model (val_loss=0.3833)
+2025-12-06 02:56:50,023:INFO: Epoch 23/75
+2025-12-06 02:57:16,912:INFO: - Validation loss: 0.4112
+2025-12-06 02:57:16,913:INFO: Epoch 24/75
+2025-12-06 02:57:43,873:INFO: - Validation loss: 0.4878
+2025-12-06 02:57:43,873:INFO: Epoch 25/75
+2025-12-06 02:58:10,795:INFO: - Validation loss: 0.3461
+2025-12-06 02:58:10,795:INFO: - Found new best model (val_loss=0.3461)
+2025-12-06 02:58:10,859:INFO: Epoch 26/75
+2025-12-06 02:58:37,785:INFO: - Validation loss: 0.3381
+2025-12-06 02:58:37,785:INFO: - Found new best model (val_loss=0.3381)
+2025-12-06 02:58:37,847:INFO: Epoch 27/75
+2025-12-06 02:59:04,733:INFO: - Validation loss: 0.3231
+2025-12-06 02:59:04,733:INFO: - Found new best model (val_loss=0.3231)
+2025-12-06 02:59:04,796:INFO: Epoch 28/75
+2025-12-06 02:59:31,699:INFO: - Validation loss: 0.3523
+2025-12-06 02:59:31,699:INFO: Epoch 29/75
+2025-12-06 02:59:58,579:INFO: - Validation loss: 0.3100
+2025-12-06 02:59:58,579:INFO: - Found new best model (val_loss=0.3100)
+2025-12-06 02:59:58,630:INFO: Epoch 30/75
+2025-12-06 03:00:25,545:INFO: - Validation loss: 0.3013
+2025-12-06 03:00:25,545:INFO: - Found new best model (val_loss=0.3013)
+2025-12-06 03:00:25,608:INFO: Epoch 31/75
+2025-12-06 03:00:52,481:INFO: - Validation loss: 0.3233
+2025-12-06 03:00:52,482:INFO: Epoch 32/75
+2025-12-06 03:01:19,354:INFO: - Validation loss: 0.3496
+2025-12-06 03:01:19,355:INFO: Epoch 33/75
+2025-12-06 03:01:46,233:INFO: - Validation loss: 0.3581
+2025-12-06 03:01:46,234:INFO: Epoch 34/75
+2025-12-06 03:02:13,139:INFO: - Validation loss: 0.3699
+2025-12-06 03:02:13,140:INFO: Epoch 35/75
+2025-12-06 03:02:40,019:INFO: - Validation loss: 0.3493
+2025-12-06 03:02:40,019:INFO: Epoch 36/75
+2025-12-06 03:03:06,917:INFO: - Validation loss: 0.3037
+2025-12-06 03:03:06,918:INFO: Epoch 37/75
+2025-12-06 03:03:33,772:INFO: - Validation loss: 0.3983
+2025-12-06 03:03:33,773:INFO: Epoch 38/75
+2025-12-06 03:04:00,643:INFO: - Validation loss: 0.3156
+2025-12-06 03:04:00,644:INFO: Epoch 39/75
+2025-12-06 03:04:27,535:INFO: - Validation loss: 0.2860
+2025-12-06 03:04:27,535:INFO: - Found new best model (val_loss=0.2860)
+2025-12-06 03:04:27,597:INFO: Epoch 40/75
+2025-12-06 03:04:54,473:INFO: - Validation loss: 0.2683
+2025-12-06 03:04:54,473:INFO: - Found new best model (val_loss=0.2683)
+2025-12-06 03:04:54,536:INFO: Epoch 41/75
+2025-12-06 03:05:21,427:INFO: - Validation loss: 0.3145
+2025-12-06 03:05:21,427:INFO: Epoch 42/75
+2025-12-06 03:05:48,289:INFO: - Validation loss: 0.2952
+2025-12-06 03:05:48,289:INFO: Epoch 43/75
+2025-12-06 03:06:15,206:INFO: - Validation loss: 0.3040
+2025-12-06 03:06:15,207:INFO: Epoch 44/75
+2025-12-06 03:06:42,090:INFO: - Validation loss: 0.3153
+2025-12-06 03:06:42,090:INFO: Epoch 45/75
+2025-12-06 03:07:08,948:INFO: - Validation loss: 0.2820
+2025-12-06 03:07:08,948:INFO: Epoch 46/75
+2025-12-06 03:07:35,871:INFO: - Validation loss: 0.2956
+2025-12-06 03:07:35,872:INFO: Epoch 47/75
+2025-12-06 03:08:02,752:INFO: - Validation loss: 0.2975
+2025-12-06 03:08:02,752:INFO: Epoch 48/75
+2025-12-06 03:08:29,624:INFO: - Validation loss: 0.2584
+2025-12-06 03:08:29,624:INFO: - Found new best model (val_loss=0.2584)
+2025-12-06 03:08:29,686:INFO: Epoch 49/75
+2025-12-06 03:08:56,578:INFO: - Validation loss: 0.2789
+2025-12-06 03:08:56,578:INFO: Epoch 50/75
+2025-12-06 03:09:23,484:INFO: - Validation loss: 0.2635
+2025-12-06 03:09:23,485:INFO: Epoch 51/75
+2025-12-06 03:09:50,342:INFO: - Validation loss: 0.2898
+2025-12-06 03:09:50,342:INFO: Epoch 52/75
+2025-12-06 03:10:17,220:INFO: - Validation loss: 0.2832
+2025-12-06 03:10:17,221:INFO: Epoch 53/75
+2025-12-06 03:10:44,113:INFO: - Validation loss: 0.3058
+2025-12-06 03:10:44,113:INFO: Epoch 54/75
+2025-12-06 03:11:11,005:INFO: - Validation loss: 0.2599
+2025-12-06 03:11:11,005:INFO: Epoch 55/75
+2025-12-06 03:11:37,874:INFO: - Validation loss: 0.2807
+2025-12-06 03:11:37,874:INFO: Epoch 56/75
+2025-12-06 03:12:04,753:INFO: - Validation loss: 0.2849
+2025-12-06 03:12:04,754:INFO: Epoch 57/75
+2025-12-06 03:12:31,687:INFO: - Validation loss: 0.2722
+2025-12-06 03:12:31,687:INFO: Epoch 58/75
+2025-12-06 03:12:58,575:INFO: - Validation loss: 0.3004
+2025-12-06 03:12:58,576:INFO: Epoch 59/75
+2025-12-06 03:13:25,459:INFO: - Validation loss: 0.2705
+2025-12-06 03:13:25,459:INFO: Epoch 60/75
+2025-12-06 03:13:52,365:INFO: - Validation loss: 0.2796
+2025-12-06 03:13:52,365:INFO: Epoch 61/75
+2025-12-06 03:14:19,262:INFO: - Validation loss: 0.2685
+2025-12-06 03:14:19,262:INFO: Epoch 62/75
+2025-12-06 03:14:46,183:INFO: - Validation loss: 0.2881
+2025-12-06 03:14:46,184:INFO: Epoch 63/75
+2025-12-06 03:15:13,075:INFO: - Validation loss: 0.3035
+2025-12-06 03:15:13,075:INFO: Epoch 64/75
+2025-12-06 03:15:39,963:INFO: - Validation loss: 0.2862
+2025-12-06 03:15:39,963:INFO: Epoch 65/75
+2025-12-06 03:16:06,860:INFO: - Validation loss: 0.3031
+2025-12-06 03:16:06,860:INFO: Epoch 66/75
+2025-12-06 03:16:33,727:INFO: - Validation loss: 0.2541
+2025-12-06 03:16:33,727:INFO: - Found new best model (val_loss=0.2541)
+2025-12-06 03:16:33,789:INFO: Epoch 67/75
+2025-12-06 03:17:00,696:INFO: - Validation loss: 0.2920
+2025-12-06 03:17:00,696:INFO: Epoch 68/75
+2025-12-06 03:17:27,577:INFO: - Validation loss: 0.3043
+2025-12-06 03:17:27,577:INFO: Epoch 69/75
+2025-12-06 03:17:54,434:INFO: - Validation loss: 0.2904
+2025-12-06 03:17:54,435:INFO: Epoch 70/75
+2025-12-06 03:18:21,342:INFO: - Validation loss: 0.2684
+2025-12-06 03:18:21,343:INFO: Epoch 71/75
+2025-12-06 03:18:48,227:INFO: - Validation loss: 0.2529
+2025-12-06 03:18:48,228:INFO: - Found new best model (val_loss=0.2529)
+2025-12-06 03:18:48,291:INFO: Epoch 72/75
+2025-12-06 03:19:15,174:INFO: - Validation loss: 0.2725
+2025-12-06 03:19:15,175:INFO: Epoch 73/75
+2025-12-06 03:19:42,061:INFO: - Validation loss: 0.3058
+2025-12-06 03:19:42,062:INFO: Epoch 74/75
+2025-12-06 03:20:08,955:INFO: - Validation loss: 0.2894
+2025-12-06 03:20:08,955:INFO: Epoch 75/75
+2025-12-06 03:20:35,851:INFO: - Validation loss: 0.2865
+2025-12-06 03:20:35,912:INFO: Training complete!
+2025-12-06 03:20:35,912:INFO: 
+======== Training Complete (80/10/10 Split) ========
+2025-12-06 03:20:35,912:INFO: Test indices saved to experiments/base_model/test_indices.npy.
+2025-12-06 05:24:38,297:INFO: Loading datasets...
+2025-12-06 05:24:39,258:INFO: Performing Cold-Ligand Split...
+2025-12-06 05:24:40,318:INFO: Train size: 23868, Val size: 3094, Test size: 3094
+2025-12-06 05:24:40,318:INFO: Epoch 1/75
+2025-12-06 05:25:07,818:INFO: - Validation loss: 0.6747
+2025-12-06 05:25:07,819:INFO: - Found new best model (val_loss=0.6747)
+2025-12-06 05:25:07,920:INFO: Epoch 2/75
+2025-12-06 05:25:35,055:INFO: - Validation loss: 0.8606
+2025-12-06 05:25:35,055:INFO: Epoch 3/75
+2025-12-06 05:26:02,304:INFO: - Validation loss: 0.7534
+2025-12-06 05:26:02,304:INFO: Epoch 4/75
+2025-12-06 05:26:29,573:INFO: - Validation loss: 0.9144
+2025-12-06 05:26:29,574:INFO: Epoch 5/75
+2025-12-06 05:26:56,810:INFO: - Validation loss: 0.8302
+2025-12-06 05:26:56,810:INFO: Epoch 6/75
+2025-12-06 05:27:24,099:INFO: - Validation loss: 0.6256
+2025-12-06 05:27:24,100:INFO: - Found new best model (val_loss=0.6256)
+2025-12-06 05:27:24,152:INFO: Epoch 7/75
+2025-12-06 05:27:51,463:INFO: - Validation loss: 0.8777
+2025-12-06 05:27:51,464:INFO: Epoch 8/75
+2025-12-06 05:28:18,756:INFO: - Validation loss: 0.9054
+2025-12-06 05:28:18,756:INFO: Epoch 9/75
+2025-12-06 05:28:46,029:INFO: - Validation loss: 0.6612
+2025-12-06 05:28:46,030:INFO: Epoch 10/75
+2025-12-06 05:29:13,285:INFO: - Validation loss: 1.4519
+2025-12-06 05:29:13,286:INFO: Epoch 11/75
+2025-12-06 05:29:40,576:INFO: - Validation loss: 0.7132
+2025-12-06 05:29:40,576:INFO: Epoch 12/75
+2025-12-06 05:30:07,870:INFO: - Validation loss: 0.6083
+2025-12-06 05:30:07,870:INFO: - Found new best model (val_loss=0.6083)
+2025-12-06 05:30:07,930:INFO: Epoch 13/75
+2025-12-06 05:30:35,186:INFO: - Validation loss: 0.6227
+2025-12-06 05:30:35,187:INFO: Epoch 14/75
+2025-12-06 05:31:02,453:INFO: - Validation loss: 0.7722
+2025-12-06 05:31:02,453:INFO: Epoch 15/75
+2025-12-06 05:31:29,717:INFO: - Validation loss: 0.6944
+2025-12-06 05:31:29,718:INFO: Epoch 16/75
+2025-12-06 05:31:56,984:INFO: - Validation loss: 0.6886
+2025-12-06 05:31:56,984:INFO: Epoch 17/75
+2025-12-06 05:32:24,248:INFO: - Validation loss: 0.7333
+2025-12-06 05:32:24,249:INFO: Epoch 18/75
+2025-12-06 05:32:51,521:INFO: - Validation loss: 0.6035
+2025-12-06 05:32:51,521:INFO: - Found new best model (val_loss=0.6035)
+2025-12-06 05:32:51,584:INFO: Epoch 19/75
+2025-12-06 05:33:18,843:INFO: - Validation loss: 0.6099
+2025-12-06 05:33:18,843:INFO: Epoch 20/75
+2025-12-06 05:33:46,107:INFO: - Validation loss: 0.6964
+2025-12-06 05:33:46,108:INFO: Epoch 21/75
+2025-12-06 05:34:13,374:INFO: - Validation loss: 0.6161
+2025-12-06 05:34:13,374:INFO: Epoch 22/75
+2025-12-06 05:34:40,668:INFO: - Validation loss: 0.6906
+2025-12-06 05:34:40,668:INFO: Epoch 23/75
+2025-12-06 05:35:07,926:INFO: - Validation loss: 0.6075
+2025-12-06 05:35:07,927:INFO: Epoch 24/75
+2025-12-06 05:35:35,227:INFO: - Validation loss: 0.6922
+2025-12-06 05:35:35,227:INFO: Epoch 25/75
+2025-12-06 05:36:02,469:INFO: - Validation loss: 0.6717
+2025-12-06 05:36:02,470:INFO: Epoch 26/75
+2025-12-06 05:36:29,756:INFO: - Validation loss: 0.7359
+2025-12-06 05:36:29,757:INFO: Epoch 27/75
+2025-12-06 05:36:57,031:INFO: - Validation loss: 0.6727
+2025-12-06 05:36:57,032:INFO: Epoch 28/75
+2025-12-06 05:37:24,287:INFO: - Validation loss: 0.6219
+2025-12-06 05:37:24,287:INFO: Epoch 29/75
+2025-12-06 05:37:51,544:INFO: - Validation loss: 0.6060
+2025-12-06 05:37:51,544:INFO: Epoch 30/75
+2025-12-06 05:38:18,782:INFO: - Validation loss: 0.6678
+2025-12-06 05:38:18,783:INFO: Epoch 31/75
+2025-12-06 05:38:46,017:INFO: - Validation loss: 0.6401
+2025-12-06 05:38:46,018:INFO: Epoch 32/75
+2025-12-06 05:39:13,263:INFO: - Validation loss: 0.6413
+2025-12-06 05:39:13,264:INFO: Epoch 33/75
+2025-12-06 05:39:40,523:INFO: - Validation loss: 0.6005
+2025-12-06 05:39:40,523:INFO: - Found new best model (val_loss=0.6005)
+2025-12-06 05:39:40,585:INFO: Epoch 34/75
+2025-12-06 05:40:07,822:INFO: - Validation loss: 0.6199
+2025-12-06 05:40:07,822:INFO: Epoch 35/75
+2025-12-06 05:40:35,074:INFO: - Validation loss: 0.6561
+2025-12-06 05:40:35,074:INFO: Epoch 36/75
+2025-12-06 05:41:02,325:INFO: - Validation loss: 0.6293
+2025-12-06 05:41:02,326:INFO: Epoch 37/75
+2025-12-06 05:41:29,570:INFO: - Validation loss: 0.7563
+2025-12-06 05:41:29,570:INFO: Epoch 38/75
+2025-12-06 05:41:56,784:INFO: - Validation loss: 0.6236
+2025-12-06 05:41:56,785:INFO: Epoch 39/75
+2025-12-06 05:42:23,991:INFO: - Validation loss: 0.7777
+2025-12-06 05:42:23,992:INFO: Epoch 40/75
+2025-12-06 05:42:51,267:INFO: - Validation loss: 0.6771
+2025-12-06 05:42:51,268:INFO: Epoch 41/75
+2025-12-06 05:43:18,496:INFO: - Validation loss: 0.6673
+2025-12-06 05:43:18,497:INFO: Epoch 42/75
+2025-12-06 05:43:45,743:INFO: - Validation loss: 0.7180
+2025-12-06 05:43:45,744:INFO: Epoch 43/75
+2025-12-06 05:44:13,012:INFO: - Validation loss: 0.6356
+2025-12-06 05:44:13,012:INFO: Epoch 44/75
+2025-12-06 05:44:40,250:INFO: - Validation loss: 0.6589
+2025-12-06 05:44:40,251:INFO: Epoch 45/75
+2025-12-06 05:45:07,476:INFO: - Validation loss: 0.6420
+2025-12-06 05:45:07,477:INFO: Epoch 46/75
+2025-12-06 05:45:34,739:INFO: - Validation loss: 0.6186
+2025-12-06 05:45:34,740:INFO: Epoch 47/75
+2025-12-06 05:46:01,982:INFO: - Validation loss: 0.6370
+2025-12-06 05:46:01,982:INFO: Epoch 48/75
+2025-12-06 05:46:29,200:INFO: - Validation loss: 0.6279
+2025-12-06 05:46:29,201:INFO: Epoch 49/75
+2025-12-06 05:46:56,450:INFO: - Validation loss: 0.6836
+2025-12-06 05:46:56,451:INFO: Epoch 50/75
+2025-12-06 05:47:23,670:INFO: - Validation loss: 0.6958
+2025-12-06 05:47:23,671:INFO: Epoch 51/75
+2025-12-06 05:47:50,925:INFO: - Validation loss: 0.6577
+2025-12-06 05:47:50,926:INFO: Epoch 52/75
+2025-12-06 05:48:18,165:INFO: - Validation loss: 0.6237
+2025-12-06 05:48:18,166:INFO: Epoch 53/75
+2025-12-06 05:48:45,441:INFO: - Validation loss: 0.6453
+2025-12-06 05:48:45,442:INFO: Epoch 54/75
+2025-12-06 05:49:12,694:INFO: - Validation loss: 0.6448
+2025-12-06 05:49:12,694:INFO: Epoch 55/75
+2025-12-06 05:49:39,956:INFO: - Validation loss: 0.6450
+2025-12-06 05:49:39,957:INFO: Epoch 56/75
+2025-12-06 05:50:07,211:INFO: - Validation loss: 0.6436
+2025-12-06 05:50:07,211:INFO: Epoch 57/75
+2025-12-06 05:50:34,447:INFO: - Validation loss: 0.6446
+2025-12-06 05:50:34,447:INFO: Epoch 58/75
+2025-12-06 05:51:01,689:INFO: - Validation loss: 0.5903
+2025-12-06 05:51:01,689:INFO: - Found new best model (val_loss=0.5903)
+2025-12-06 05:51:01,752:INFO: Epoch 59/75
+2025-12-06 05:51:28,977:INFO: - Validation loss: 0.6557
+2025-12-06 05:51:28,978:INFO: Epoch 60/75
+2025-12-06 05:51:56,196:INFO: - Validation loss: 0.6968
+2025-12-06 05:51:56,196:INFO: Epoch 61/75
+2025-12-06 05:52:23,418:INFO: - Validation loss: 0.6007
+2025-12-06 05:52:23,419:INFO: Epoch 62/75
+2025-12-06 05:52:50,650:INFO: - Validation loss: 0.6795
+2025-12-06 05:52:50,651:INFO: Epoch 63/75
+2025-12-06 05:53:17,890:INFO: - Validation loss: 0.6055
+2025-12-06 05:53:17,890:INFO: Epoch 64/75
+2025-12-06 05:53:45,102:INFO: - Validation loss: 0.6408
+2025-12-06 05:53:45,103:INFO: Epoch 65/75
+2025-12-06 05:54:12,338:INFO: - Validation loss: 0.6263
+2025-12-06 05:54:12,339:INFO: Epoch 66/75
+2025-12-06 05:54:39,593:INFO: - Validation loss: 0.7312
+2025-12-06 05:54:39,594:INFO: Epoch 67/75
+2025-12-06 05:55:06,811:INFO: - Validation loss: 0.6300
+2025-12-06 05:55:06,811:INFO: Epoch 68/75
+2025-12-06 05:55:34,053:INFO: - Validation loss: 0.6030
+2025-12-06 05:55:34,054:INFO: Epoch 69/75
+2025-12-06 05:56:01,285:INFO: - Validation loss: 0.5953
+2025-12-06 05:56:01,285:INFO: Epoch 70/75
+2025-12-06 05:56:28,509:INFO: - Validation loss: 0.6381
+2025-12-06 05:56:28,510:INFO: Epoch 71/75
+2025-12-06 05:56:55,749:INFO: - Validation loss: 0.6033
+2025-12-06 05:56:55,750:INFO: Epoch 72/75
+2025-12-06 05:57:22,993:INFO: - Validation loss: 0.7261
+2025-12-06 05:57:22,993:INFO: Epoch 73/75
+2025-12-06 05:57:50,282:INFO: - Validation loss: 0.6985
+2025-12-06 05:57:50,283:INFO: Epoch 74/75
+2025-12-06 05:58:17,537:INFO: - Validation loss: 0.5984
+2025-12-06 05:58:17,538:INFO: Epoch 75/75
+2025-12-06 05:58:44,756:INFO: - Validation loss: 0.5821
+2025-12-06 05:58:44,756:INFO: - Found new best model (val_loss=0.5821)
+2025-12-06 05:58:44,882:INFO: Training complete!
+2025-12-06 05:58:44,882:INFO: 
+======== Training Complete (Cold-Ligand Split) ========
+2025-12-06 05:58:44,882:INFO: Test indices saved to experiments/base_model/test_indices.npy.
