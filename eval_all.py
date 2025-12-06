@@ -15,7 +15,6 @@ os.makedirs(SAVE_DIR, exist_ok=True)
 def load_outputs(model_dir):
     y_true = np.load(os.path.join(model_dir, "y_true.npy"))
     y_pred = np.load(os.path.join(model_dir, "y_pred.npy"))
-    # The metrics.csv file is loaded for existing metrics (MSE, RMSE, CI)
     metrics = pd.read_csv(os.path.join(model_dir, "metrics.csv"))
     return y_true, y_pred, metrics
 
@@ -28,7 +27,7 @@ def calculate_extra_metrics(y_true, y_pred):
     }
 
 def plot_rank_order(y_true, y_pred, model_name, save_dir):
-    """Generates a Rank-Order Heatmap, directly visualizing CI performance."""
+    """Generates a Rank-Order Heatmap for visualizing CI performance?"""
     df = pd.DataFrame({'True': y_true, 'Pred': y_pred})
     df_sorted_by_true = df.sort_values(by='True').reset_index(drop=True)
     
@@ -36,10 +35,10 @@ def plot_rank_order(y_true, y_pred, model_name, save_dir):
     pred_rank = df_sorted_by_true['Pred'].rank(method='average').values - 1 
 
     plt.figure(figsize=(7, 7))
-    # Use density plot (kdeplot) to show concentration along the diagonal
+    #Use density plot (kdeplot) to show concentration along the diagonal
     sns.kdeplot(x=true_rank, y=pred_rank, cmap="magma", fill=True, clip=((0, len(y_true)), (0, len(y_true))))
     
-    # Plot the perfect rank line (y=x)
+    #Plot the perfect rank line (y=x)
     plt.plot([0, len(y_true)], [0, len(y_true)], '--', color='cyan', alpha=0.8, linewidth=2, label='Perfect Rank')
     
     plt.xlabel("True Rank (Sorted by True pKd)")
