@@ -3,6 +3,6 @@ Drug–target interaction (DTI) prediction is a fundamental task in drug discove
 
 # **References and Credit**
 
-Original DeepDTA Paper "DeepDTA: deep drug--target binding affinity prediction" and github repo: https://github.com/hkmztrk/DeepDTA/tree/master
+Original DeepDTA Paper "DeepDTA: deep drug--target binding affinity prediction" (https://pubmed.ncbi.nlm.nih.gov/30423097/)
 
-Also the paper: "Leak Proof PDBBind: A Reorganized Dataset of Protein-Ligand Complexes for More Generalizable Binding Affinity Prediction" and their PyTorch reimplementation repo: https://github.com/KSUN63/DeepDTA-Pytorch
+Also the paper: "Leak Proof PDBBind: A Reorganized Dataset of Protein-Ligand Complexes for More Generalizable Binding Affinity Prediction" (https://arxiv.org/abs/2308.09639)
